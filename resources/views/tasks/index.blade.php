@@ -7,6 +7,9 @@
 </head>
 <body>
     <h4>Daftar Tugas</h4>
+    <div>
+        <a href="/tasks/create">Data Baru</a>
+    </div>
 
     <table>
         <tr>
